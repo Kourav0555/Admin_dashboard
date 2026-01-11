@@ -21,6 +21,11 @@ body {
     padding: 20px;
 }
 
+.profile span {
+  color: #f7f6f3;   
+  font-weight: bold;
+}
+
 .logo {
     text-align: center;
     margin-bottom: 30px;
@@ -33,6 +38,11 @@ body {
     text-decoration: none;
     margin-bottom: 8px;
     border-radius: 6px;
+}
+
+span.admin {
+    font-size: 12px;
+    color: #f3f6fa;
 }
 
 .sidebar nav a:hover,
